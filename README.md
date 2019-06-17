@@ -10,4 +10,4 @@ Topic: Learn methods and means of constructing hardware and software of modern r
 * **Lab 4** - Learn about fast Fourier transformation and compare it to discrete one
 * **Lab 5** - Create mass service system: RR
 * **Lab 2a** - Create simple classification program
-* **lab 3a** - Genetic algorithm for solving equations
+* **Lab 3a** - Genetic algorithm for solving equations
